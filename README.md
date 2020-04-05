@@ -2,7 +2,7 @@
 
 ## Project Details
 ```
-Bagian 1 berisi soal mengenai Pemrogramman PHP Dasar
-Bagian 2 berisi pemrogramman menggunakan Laravel 
+Bagian 1 berisi soal mengenai Pemrograman PHP Dasar
+Bagian 2 berisi pemrograman menggunakan Laravel 
 ```
 

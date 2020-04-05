@@ -10,11 +10,11 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Bootstrap -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/app.min.css') }}" rel="stylesheet">
     <!-- Fontawesome -->
     <link href="{{ asset('font-awesome/font-awesome.css') }}" rel="stylesheet">
     <!-- Custom -->
-    <link href="{{ asset('css/custom/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/custom/style.min.css') }}" rel="stylesheet">
 </head>
 <body>
     {{-- Menerapkan component.blade milik laravel --}}

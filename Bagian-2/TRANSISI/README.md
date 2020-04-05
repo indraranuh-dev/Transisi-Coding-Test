@@ -1,4 +1,4 @@
-# client
+# Overview Project
 
 ## Project Details
 ```
@@ -13,7 +13,7 @@ Migration : php artisan migrate
 DB Seed : php artisan db:seed --class UserSeeder
 ```
 
-## Client-Side
+## Client Side
 
 ```
 Install : npm run install
